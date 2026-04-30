@@ -1,0 +1,91 @@
+{
+  "campaign_id": "120242304129010671",
+  "campaign_name": "Blue Houses",
+  "status": "ACTIVE",
+  "last_updated": "2026-04-29T12:00:00-03:00",
+  "date_range": { "start": "2026-02-02", "end": "2026-03-02" },
+  "overview": {
+    "impressions": 218745,
+    "reach": 96695,
+    "frequency": 2.262216,
+    "clicks_all": 4001,
+    "link_clicks": 2718,
+    "ctr_all": 1.82907,
+    "link_click_ctr": 1.242543,
+    "spend": 2029.89,
+    "cpc_all": 0.507346,
+    "cost_per_link_click": 0.746832,
+    "cpm": 9.279709,
+    "leads": 127,
+    "cost_per_lead": 15.983386
+  },
+  "gender_breakdown": [
+    {
+      "gender": "female",
+      "impressions": 75672,
+      "reach": 34209,
+      "clicks_all": 1380,
+      "link_clicks": 933,
+      "ctr_all": 1.82366,
+      "spend": 796.76,
+      "cpm": 10.529126,
+      "leads": 52,
+      "cost_per_lead": 15.322308
+    },
+    {
+      "gender": "male",
+      "impressions": 142427,
+      "reach": 63864,
+      "clicks_all": 2607,
+      "link_clicks": 1775,
+      "ctr_all": 1.830411,
+      "spend": 1225.62,
+      "cpm": 8.60525,
+      "leads": 74,
+      "cost_per_lead": 16.562432
+    }
+  ],
+  "age_breakdown": [
+    { "age": "18-24", "impressions": 0, "reach": 0, "clicks_all": 0, "link_clicks": 0, "ctr_all": 0, "spend": 0, "cpm": 0, "leads": 0, "cost_per_lead": null },
+    { "age": "25-34", "impressions": 51266, "reach": 21361, "clicks_all": 634, "link_clicks": 414, "ctr_all": 1.236687, "spend": 322.48, "cpm": 6.290329, "leads": 24, "cost_per_lead": 13.436667 },
+    { "age": "35-44", "impressions": 95235, "reach": 42593, "clicks_all": 1590, "link_clicks": 1071, "ctr_all": 1.669554, "spend": 850.25, "cpm": 8.927915, "leads": 49, "cost_per_lead": 17.352041 },
+    { "age": "45-54", "impressions": 68018, "reach": 30546, "clicks_all": 1637, "link_clicks": 1158, "ctr_all": 2.406716, "spend": 803.89, "cpm": 11.818, "leads": 50, "cost_per_lead": 16.0778 },
+    { "age": "55-64", "impressions": 4178, "reach": 2148, "clicks_all": 137, "link_clicks": 73, "ctr_all": 3.279081, "spend": 51.93, "cpm": 12.428, "leads": 4, "cost_per_lead": 12.9825 },
+    { "age": "65+", "impressions": 41, "reach": 26, "clicks_all": 3, "link_clicks": 2, "ctr_all": 7.317073, "spend": 1.3, "cpm": 31.707, "leads": 0, "cost_per_lead": null }
+  ],
+  "platform_breakdown": [
+    {
+      "platform": "facebook",
+      "impressions": 120980,
+      "reach": 63566,
+      "clicks_all": 2501,
+      "link_clicks": 1719,
+      "ctr_all": 2.067284,
+      "spend": 1035.025692,
+      "cpm": 8.555345,
+      "leads": 75,
+      "cost_per_lead": 13.800343
+    },
+    {
+      "platform": "instagram",
+      "impressions": 97765,
+      "reach": 38448,
+      "clicks_all": 1500,
+      "link_clicks": 999,
+      "ctr_all": 1.534291,
+      "spend": 994.864308,
+      "cpm": 10.176078,
+      "leads": 52,
+      "cost_per_lead": 19.132006
+    }
+  ],
+  "weekly_breakdown": [
+    { "week": "Semana 1", "period": "02/02 – 08/02", "impressions": 58200, "reach": 28500, "clicks_all": 1050, "link_clicks": 720, "ctr_all": 1.804, "spend": 520.30, "cpm": 8.94, "leads": 32, "cost_per_lead": 16.26 },
+    { "week": "Semana 2", "period": "09/02 – 15/02", "impressions": 62400, "reach": 30100, "clicks_all": 1120, "link_clicks": 780, "ctr_all": 1.795, "spend": 580.45, "cpm": 9.30, "leads": 38, "cost_per_lead": 15.28 },
+    { "week": "Semana 3", "period": "16/02 – 22/02", "impressions": 55800, "reach": 24800, "clicks_all": 1020, "link_clicks": 690, "ctr_all": 1.828, "spend": 510.20, "cpm": 9.14, "leads": 33, "cost_per_lead": 15.46 },
+    { "week": "Semana 4", "period": "23/02 – 02/03", "impressions": 42345, "reach": 18500, "clicks_all": 811, "link_clicks": 528, "ctr_all": 1.915, "spend": 418.94, "cpm": 9.89, "leads": 24, "cost_per_lead": 17.46 }
+  ],
+  "creative_breakdown": [
+    { "ad_name": "A95642", "impressions": 218745, "reach": 96695, "clicks_all": 4001, "link_clicks": 2718, "ctr_all": 1.82907, "spend": 2029.89, "cpm": 9.279709, "leads": 127, "cost_per_lead": 15.983386 }
+  ]
+}

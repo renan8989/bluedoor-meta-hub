@@ -1,0 +1,95 @@
+{
+  "campaign_id": "120245166124370671",
+  "campaign_name": "Oceana Golf",
+  "status": "ACTIVE",
+  "last_updated": "2026-04-29T12:00:00-03:00",
+  "date_range": { "start": "2026-04-09", "end": "2026-04-29" },
+  "overview": {
+    "impressions": 26555,
+    "reach": 11724,
+    "frequency": 2.265012,
+    "clicks_all": 564,
+    "link_clicks": 370,
+    "ctr_all": 2.123894,
+    "link_click_ctr": 1.393335,
+    "spend": 1113.59,
+    "cpc_all": 1.97445,
+    "cost_per_link_click": 3.009703,
+    "cpm": 41.935229,
+    "leads": 36,
+    "cost_per_lead": 30.933056
+  },
+  "gender_breakdown": [
+    {
+      "gender": "male",
+      "impressions": 15602,
+      "reach": 7219,
+      "clicks_all": 355,
+      "link_clicks": 221,
+      "ctr_all": 2.275349,
+      "spend": 666.56,
+      "cpm": 42.722728,
+      "leads": 28,
+      "cost_per_lead": 23.805714
+    },
+    {
+      "gender": "female",
+      "impressions": 10921,
+      "reach": 4674,
+      "clicks_all": 209,
+      "link_clicks": 149,
+      "ctr_all": 1.913744,
+      "spend": 446.21,
+      "cpm": 40.85798,
+      "leads": 8,
+      "cost_per_lead": 55.77625
+    }
+  ],
+  "age_breakdown": [
+    { "age": "18-24", "impressions": 0, "reach": 0, "clicks_all": 0, "link_clicks": 0, "ctr_all": 0, "spend": 0, "cpm": 0, "leads": 0, "cost_per_lead": null },
+    { "age": "25-34", "impressions": 6633, "reach": 2964, "clicks_all": 120, "link_clicks": 81, "ctr_all": 1.809136, "spend": 189.84, "cpm": 28.620534, "leads": 9, "cost_per_lead": 21.093333 },
+    { "age": "35-44", "impressions": 11743, "reach": 5051, "clicks_all": 265, "link_clicks": 170, "ctr_all": 2.256664, "spend": 517.56, "cpm": 44.073916, "leads": 16, "cost_per_lead": 32.3475 },
+    { "age": "45-54", "impressions": 7426, "reach": 3436, "clicks_all": 168, "link_clicks": 110, "ctr_all": 2.262322, "spend": 358.97, "cpm": 48.339618, "leads": 11, "cost_per_lead": 32.633636 },
+    { "age": "55-64", "impressions": 757, "reach": 350, "clicks_all": 11, "link_clicks": 9, "ctr_all": 1.453104, "spend": 47.09, "cpm": 62.206077, "leads": 0, "cost_per_lead": null },
+    { "age": "65+", "impressions": 1, "reach": 1, "clicks_all": 0, "link_clicks": 0, "ctr_all": 0, "spend": 0.18, "cpm": 180, "leads": 0, "cost_per_lead": null }
+  ],
+  "platform_breakdown": [
+    {
+      "platform": "facebook",
+      "impressions": 4340,
+      "reach": 2194,
+      "clicks_all": 152,
+      "link_clicks": 55,
+      "ctr_all": 3.502304,
+      "spend": 149.575215,
+      "cpm": 34.464335,
+      "leads": 6,
+      "cost_per_lead": 24.929202
+    },
+    {
+      "platform": "instagram",
+      "impressions": 22220,
+      "reach": 9817,
+      "clicks_all": 412,
+      "link_clicks": 315,
+      "ctr_all": 1.854185,
+      "spend": 964.064785,
+      "cpm": 43.387254,
+      "leads": 30,
+      "cost_per_lead": 32.135493
+    }
+  ],
+  "weekly_breakdown": [
+    { "week": "Semana 1", "period": "09/04 – 15/04", "impressions": 9449, "reach": 5754, "clicks_all": 213, "link_clicks": 140, "ctr_all": 2.254207, "spend": 359.18, "cpm": 38.012488, "leads": 10, "cost_per_lead": 35.918 },
+    { "week": "Semana 2", "period": "16/04 – 22/04", "impressions": 9845, "reach": 5508, "clicks_all": 210, "link_clicks": 138, "ctr_all": 2.133062, "spend": 408.23, "cpm": 41.465719, "leads": 17, "cost_per_lead": 24.013529 },
+    { "week": "Semana 3", "period": "23/04 – 26/04", "impressions": 4732, "reach": 3285, "clicks_all": 103, "link_clicks": 62, "ctr_all": 2.177, "spend": 217.35, "cpm": 45.92, "leads": 5, "cost_per_lead": 43.47 },
+    { "week": "Semana 4", "period": "27/04 – 29/04", "impressions": 2539, "reach": 1857, "clicks_all": 48, "link_clicks": 35, "ctr_all": 1.890508, "spend": 128.53, "cpm": 50.622292, "leads": 4, "cost_per_lead": 32.1325 }
+  ],
+  "creative_breakdown": [
+    { "ad_name": "A2", "impressions": 23238, "reach": 10192, "clicks_all": 512, "link_clicks": 330, "ctr_all": 2.203288, "spend": 1055.97, "cpm": 45.441518, "leads": 36, "cost_per_lead": 29.3325 },
+    { "ad_name": "A3", "impressions": 1316, "reach": 1167, "clicks_all": 20, "link_clicks": 14, "ctr_all": 1.519757, "spend": 21.87, "cpm": 16.618541, "leads": 0, "cost_per_lead": null },
+    { "ad_name": "A5", "impressions": 866, "reach": 766, "clicks_all": 15, "link_clicks": 11, "ctr_all": 1.732102, "spend": 13.85, "cpm": 15.993072, "leads": 0, "cost_per_lead": null },
+    { "ad_name": "A4", "impressions": 625, "reach": 517, "clicks_all": 10, "link_clicks": 6, "ctr_all": 1.6, "spend": 15.04, "cpm": 24.064, "leads": 0, "cost_per_lead": null },
+    { "ad_name": "A1", "impressions": 510, "reach": 456, "clicks_all": 7, "link_clicks": 5, "ctr_all": 1.372549, "spend": 6.86, "cpm": 13.45098, "leads": 0, "cost_per_lead": null }
+  ]
+}
